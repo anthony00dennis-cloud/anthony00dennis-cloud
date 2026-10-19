@@ -24,12 +24,12 @@ export type SkillGroup = {
 export const profile = {
   name: "Anthony Dennis",
   firstName: "Anthony",
-  headline: "Senior Full Stack Developer",
+  headline: "Senior Software Engineering",
   location: {
-    city: "Corpus Christi",
+    city: "Kingwood",
     region: "Texas",
     country: "United States",
-    short: "Corpus Christi, TX",
+    short: "Kingwood, TX",
   },
   openTo: ["Full Stack Engineer", "Frontend Developer"],
   tagline:
@@ -77,7 +77,7 @@ export const focusAreas = [
 
 export const experience: Role[] = [
   {
-    title: "Full Stack Engineer",
+    title: "Senior Software Engineer",
     company: "Valor Software",
     initials: "V",
     brandColor: "#e11d48",
@@ -98,7 +98,7 @@ export const experience: Role[] = [
     stack: ["React", "Next.js", "TypeScript", "Node.js", "NestJS", "React Native", "JWT", "Jest"],
   },
   {
-    title: "Senior Software Developer",
+    title: "Senior Software Engineer",
     company: "CoDev",
     initials: "Co",
     brandColor: "#d6335b",
@@ -119,7 +119,7 @@ export const experience: Role[] = [
     stack: ["React", "Next.js", "TypeScript", "NestJS", "PostgreSQL", "MongoDB", "CI/CD"],
   },
   {
-    title: "Full Stack Developer",
+    title: "Senior Full Stack Developer",
     company: "TLVTech",
     initials: "TLV",
     brandColor: "#0f766e",
