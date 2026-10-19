@@ -24,12 +24,12 @@ export type SkillGroup = {
 export const profile = {
   name: "Anthony Dennis",
   firstName: "Anthony",
-  headline: "Senior Full Stack Developer",
+  headline: "Senior Software Engineering",
   location: {
-    city: "Corpus Christi",
+    city: "Kingwood",
     region: "Texas",
     country: "United States",
-    short: "Corpus Christi, TX",
+    short: "Kingwood, TX",
   },
   openTo: ["Full Stack Engineer", "Frontend Developer"],
   tagline:
@@ -77,7 +77,7 @@ export const focusAreas = [
 
 export const experience: Role[] = [
   {
-    title: "Full Stack Engineer",
+    title: "Senior Software Engineer",
     company: "Valor Software",
     initials: "V",
     brandColor: "#e11d48",
