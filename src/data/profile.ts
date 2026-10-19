@@ -98,7 +98,7 @@ export const experience: Role[] = [
     stack: ["React", "Next.js", "TypeScript", "Node.js", "NestJS", "React Native", "JWT", "Jest"],
   },
   {
-    title: "Senior Software Developer",
+    title: "Senior Software Engineer",
     company: "CoDev",
     initials: "Co",
     brandColor: "#d6335b",
@@ -119,7 +119,7 @@ export const experience: Role[] = [
     stack: ["React", "Next.js", "TypeScript", "NestJS", "PostgreSQL", "MongoDB", "CI/CD"],
   },
   {
-    title: "Full Stack Developer",
+    title: "Senior Full Stack Developer",
     company: "TLVTech",
     initials: "TLV",
     brandColor: "#0f766e",
