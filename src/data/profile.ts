@@ -77,7 +77,7 @@ export const focusAreas = [
 
 export const experience: Role[] = [
   {
-    title: "Senior Software Engineer",
+    title: "Lead Software Engineer",
     company: "Valor Software",
     initials: "V",
     brandColor: "#e11d48",
@@ -119,7 +119,7 @@ export const experience: Role[] = [
     stack: ["React", "Next.js", "TypeScript", "NestJS", "PostgreSQL", "MongoDB", "CI/CD"],
   },
   {
-    title: "Senior Full Stack Developer",
+    title: "Full Stack Developer",
     company: "TLVTech",
     initials: "TLV",
     brandColor: "#0f766e",
@@ -164,7 +164,7 @@ export const experience: Role[] = [
 export const skillGroups: SkillGroup[] = [
   {
     name: "Languages",
-    skills: ["JavaScript", "TypeScript", "Python", "SQL", "HTML", "CSS"],
+    skills: ["JavaScript", "TypeScript", "Python", "SQL", "HTML", "CSS", "C#", "C++"],
   },
   {
     name: "Front End & Mobile",
@@ -176,11 +176,11 @@ export const skillGroups: SkillGroup[] = [
   },
   {
     name: "Databases",
-    skills: ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
+    skills: ["PostgreSQL", "MySQL", "MongoDB", "Firebase", "Oracle"],
   },
   {
     name: "Cloud & DevOps",
-    skills: ["Amazon Web Services (AWS)", "Google Cloud Platform (GCP)", "Microsoft Azure", "Docker", "Jenkins", "Nginx", "Git"],
+    skills: ["Amazon Web Services (AWS)", "Google Cloud Platform (GCP)", "Microsoft Azure", "Docker", "Jenkins", "Nginx", "Git", "Bitbucket"],
   },
   {
     name: "Testing",
